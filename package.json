@@ -1,5 +1,5 @@
 {
-  "name": "filter-key-value",
+  "name": "get-filtered",
   "version": "1.0.0",
   "description": "filter output based on key and list",
   "main": "index.js",
