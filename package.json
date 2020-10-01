@@ -1,11 +1,16 @@
 {
   "name": "get-filtered",
   "version": "1.0.0",
-  "description": "filter output based on key and list",
+  "description": "filter an array of object based on an array and a key",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zwazoe/get-filtered.git"
+  },
+  "homepage": "https://github.com/zwazoe/get-filtered"
 }
