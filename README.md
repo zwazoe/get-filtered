@@ -11,7 +11,7 @@ npm i get-filtered
 # Usage
 
 ```
-const getFiltered = require('getFiltered')
+const {getFiltered} = require('getFiltered')
 
 const data = [
     {

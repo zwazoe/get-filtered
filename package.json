@@ -1,6 +1,6 @@
 {
   "name": "get-filtered",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "filter an array of object based on an array and a key",
   "main": "index.js",
   "scripts": {
